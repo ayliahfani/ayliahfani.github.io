@@ -38,8 +38,8 @@ sass:
 
 nav:
   links:
-    - title: CV
-      url: /cv/
+    - title: Blog
+      url: /blog/
     - title: Projects
       url: /projects/
     - title: About
