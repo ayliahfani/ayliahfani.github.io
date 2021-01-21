@@ -1,4 +1,4 @@
-title: Winnie Wu
+title: Ayliah Fani
 description: A portfolio
 url:
 avatar: /assets/img/head.png  # path/to/avatar for index page. e.g. /assets/img/avatar.jpg
@@ -6,14 +6,11 @@ favicon: # path/to/favicon for site. e.g. /assets/img/favicon.ico
 image_404: /assets/img/avatar.jpg
 google_analytics: # google analytics id
 # disqus_shortname: # disqus_shortname for disqus comment system
-email: weiwinnie.wu@gmail.com
+email: ayliahfani@gmail.com
 
 #social media
-instagram: https://www.instagram.com/thewinniewu
-twitter: https://www.twitter.com/thewinniewu
-github: https://github.com/thewinniewu
-linkedin: https://www.linkedin.com/in/thewinniewu
-medium: https://www.medium.com/@WinnieWu
+github: https://github.com/ayliahfani
+linkedin: https://www.linkedin.com/in/ayliahfani
 
 sass:
   sass_dir: assets/css
@@ -41,8 +38,8 @@ sass:
 
 nav:
   links:
-    - title: Blog
-      url: /blog/
+    - title: CV
+      url: /cv/
     - title: Projects
       url: /projects/
     - title: About
