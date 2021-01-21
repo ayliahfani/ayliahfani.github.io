@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: project_post
 title: Stories of Your Life
 date: 2020-11-27
 tags:
