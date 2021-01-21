@@ -1,7 +1,7 @@
 ---
 layout: project_post
 title: Stories of Your Life
-date: 2020-11-27
+date: 2021-11-27
 tags:
 category: blog
 published: true
