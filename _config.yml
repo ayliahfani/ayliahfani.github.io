@@ -40,8 +40,8 @@ nav:
   links:
     - title: Blog
       url: /blog/
-    - title: Projects
-      url: /projects/
+    - title: CV
+      url: /cv/
     - title: About
       url: /about/
 #     - name: technical
