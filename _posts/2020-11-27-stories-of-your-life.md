@@ -1,6 +1,6 @@
 ---
-layout: project_post
-title: Stories of Your Life
+layout: post
+title: World's Most Liveable Cities, Factors Effecting Quality of Life
 date: 2021-11-27
 tags:
 category: blog
