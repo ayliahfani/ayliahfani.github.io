@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <!-- head -->
+    {% include head.html %}
+
+    <!-- fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Karla:wght@500;700&display=swap" rel="stylesheet">
+
+    <!-- stylesheet -->
+    <!-- Social Share Kit CSS -->
+    <link rel="stylesheet" href="/assets/css/social-share-kit.css" type="text/css">
+    <link rel="stylesheet" href="/assets/css/solarized_dark.css" />
+    <link rel="stylesheet" href="/assets/css/styles.css" />
+
+    <!-- script -->
+    <script src="/assets/js/jquery-1.11.3.min.js"></script>
+
+    {% if site.google_analytics %}
+    <!-- Google Analytics -->
+    {% include google-analytics.html %}
+    {% endif %}
+</head>
+<body>
+  <div class="main-container">
+    <div class="top-section">
+      <div class="top-section__logo">
+        {% include svg_logo.html %}
+      </div>
+      <div class="top-section__nav">
+        {% include nav.html %}
+      </div>
+    </div>
+
+    <div class="content-section">
+    {{ content }}
+    </div>
+
+    {% include footer.html %}
+  </div>
+</body>
+</html>

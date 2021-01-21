@@ -1,0 +1,25 @@
+---
+layout: page
+title: Blog
+permalink: /blog/
+---
+
+<div class="blog-section">
+<ul class="blog-posts">
+  {% for post in site.posts %}
+      <li>
+        <div class="post-date">
+          {{ post.date | date: '%B %d, %Y' }}
+        </div>
+        <a class="blog-post-link" href="{{ post.url }}">
+          {{ post.title }}
+        </a>
+        <div class="post-preview">
+          <p>
+            {{ post.content | strip_html | truncatewords: 100 }}
+          </p>
+        </div>
+      </li>
+  {% endfor %}
+</ul>
+</div>
