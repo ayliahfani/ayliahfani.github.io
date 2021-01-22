@@ -8,7 +8,7 @@ permalink: /cv/
 **City, University of London** • London, United Kingdom <br>
 **Master of Science, Data Science, 2020-2021** <br>
 <br>
-_Dissertation_: TBD
+_Dissertation_: TBD <br>
 <br>
 _Coursework_: principles of data science, machine learning, visual analytics, big data, neural computing, data visualisation, computer vision
 <br>
