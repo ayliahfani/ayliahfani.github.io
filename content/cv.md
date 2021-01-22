@@ -9,17 +9,16 @@ permalink: /cv/
 **Master of Science, Data Science, 2020-2021** <br>
 <br>
 _Dissertation_: TBD <br>
-<br>
 _Coursework_: principles of data science, machine learning, visual analytics, big data, neural computing, data visualisation, computer vision
-<br>
-
-
+<br>  
+<br> 
 **McMaster University** • Hamilton, Canada <br>
 **Bachelor of Engineering, Materials Engineering, 2019**<br>
 Specialisations in both nanomaterials and electronic materials.<br>
 <br>
-_Dissertation_: Diagnosis & Remediation of Discoloured Anodised Aluminium Medical Sterilisation Containers
-<br>
+_Dissertation_: Diagnosis & Remediation of Discoloured Anodised Aluminium Medical Sterilisation Containers <br>
+_Coursework_: applied thermodynamics, materials fabrication, high temperature materials production, materials selection in design and manufacturing, physical metallurgy of steels, thin film science and engineering, materials for electronic applications, nanoscale semiconductor devices.
+
   
 # Experience
 **Operations Assistant** • Lilia <br>
