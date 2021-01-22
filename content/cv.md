@@ -5,14 +5,14 @@ permalink: /cv/
 ---
 
 # Education
-**City, University of London** • London, United Kingdom<br>
-*Master of Science, Data Science, 2020-2021*
-
+**City, University of London** • London, United Kingdom <br>
+**_Master of Science, Data Science, 2020-2021_** <br>
+_Coursework_: principles of data science, machine learning, visual analytics, big data, neural computing, data visualisation, computer vision
 
 **McMaster University** • Hamilton, Canada <br>
-*Bachelor of Engineering, Materials Engineering, 2019*<br>
+**_Bachelor of Engineering, Materials Engineering, 2019_**<br>
 Specialisations in both nanomaterials and electronic materials.<br>
-Dissertation: Diagnosis & Remediation of Discoloured Anodised Aluminium Medical Sterilisation Containers
+_Dissertation_: Diagnosis & Remediation of Discoloured Anodised Aluminium Medical Sterilisation Containers
 
 <br>
   
