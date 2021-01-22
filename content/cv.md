@@ -5,14 +5,14 @@ permalink: /cv/
 ---
 
 # Education
-**City, University of London** • London, United Kingdom <br>
+**CITY, UNIVERSITY OF LONDON** • London, United Kingdom <br>
 **Master of Science, Data Science, 2020-2021** <br>
 <br>
 _Dissertation_: TBD <br>
 _Coursework_: principles of data science, machine learning, visual analytics, big data, neural computing, data visualisation, computer vision
 <br>  
 <br> 
-**McMaster University** • Hamilton, Canada <br>
+**MCMASTER UNIVERSITY** • Hamilton, Canada <br>
 **Bachelor of Engineering, Materials Engineering, 2019**<br>
 Specialisations in both nanomaterials and electronic materials.<br>
 <br>
