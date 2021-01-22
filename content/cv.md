@@ -18,7 +18,7 @@ Specialisations in both nanomaterials and electronic materials.<br>
 <br>
 **Dissertation**: Diagnosis & Remediation of Discoloured Anodised Aluminium Medical Sterilisation Containers <br>
 **Coursework**: applied thermodynamics, materials fabrication, high temperature materials production, materials selection in design and manufacturing, physical metallurgy of steels, thin film science and engineering, materials for electronic applications, nanoscale semiconductor devices.
-
+<br>
   
 # Experience
 **Operations Assistant** • Lilia <br>
