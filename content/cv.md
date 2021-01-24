@@ -21,7 +21,7 @@ Specialisations in both nanomaterials and electronic materials.<br>
 <br>
   
 # Experience
-**Operations Assistant** • Lilia <br>
+**Operations & Research** • Lilia <br>
 Jan 2020 - May 2020 • Toronto, Canada <br>
 Lilia is a faster, simpler way to learn about egg freezing and fertility. Lilia provides at-home tests that measures hormone levels and offers end to end fertility support. Starting with a diagnostic test, Lilia offers a resource hub that connects potential parents with fertility specialists and provides information on how to navigate reproductive issues
 - Implemented customer relationship management software. Done through analyzing large data sets of potential leads and current customers by generating information from disparate data
