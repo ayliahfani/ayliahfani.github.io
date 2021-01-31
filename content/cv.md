@@ -23,7 +23,9 @@ Specialisations in both nanomaterials and electronic materials.<br>
 # Skills
 **Languages:** python, matlab, SQL, elm
 **Tools:** pytorch, scikit-learn, scikit-image, scipy, plotly, spark, numpy, pandas, matplotlib, seaborn
-  
+
+<br>
+
 # Experience
 **Operations & Research** • Lilia <br>
 Jan 2020 - May 2020 • Toronto, Canada <br>
