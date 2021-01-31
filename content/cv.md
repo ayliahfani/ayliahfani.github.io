@@ -19,9 +19,11 @@ Specialisations in both nanomaterials and electronic materials.<br>
 **Dissertation**: Diagnosis & Remediation of Discoloured Anodised Aluminium Medical Sterilisation Containers <br>
 **Coursework**: applied thermodynamics, materials fabrication, high temperature materials production, materials selection in design and manufacturing, physical metallurgy of steels, thin film science and engineering, materials for electronic applications, nanoscale semiconductor devices.
 <br>
+<br>
 
 # Skills
-**Languages:** python, matlab, SQL, elm <br>
+**Languages:** python, matlab, SQL, elm 
+<br>
 **Tools:** pytorch, scikit-learn, scikit-image, scipy, plotly, spark, numpy, pandas, matplotlib, seaborn
 
 <br>
