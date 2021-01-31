@@ -21,7 +21,7 @@ Specialisations in both nanomaterials and electronic materials.<br>
 <br>
 
 # Skills
-**Languages:** python, matlab, SQL, elm
+**Languages:** python, matlab, SQL, elm <br>
 **Tools:** pytorch, scikit-learn, scikit-image, scipy, plotly, spark, numpy, pandas, matplotlib, seaborn
 
 <br>
