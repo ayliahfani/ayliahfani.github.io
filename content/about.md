@@ -19,6 +19,5 @@ permalink: /about/
 Outside of school, you can find me wandering around London, museum and gallery hopping, and playing sports not involving hand-eye coordination.
 </p>
   </div>
-</div>
 
 
